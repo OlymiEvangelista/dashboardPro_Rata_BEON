@@ -1,0 +1,6 @@
+{
+  "name": "TOT Dynamics - Dashboard Estratégico",
+  "description": "Sistema integrado de gestão pró-rata, central de ajuda e canvas estratégico para franqueados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
