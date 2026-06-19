@@ -2,11 +2,9 @@
 <img width="1200" height="475" alt="GHBanner" src="https://play-lh.googleusercontent.com/Y50FhHd-xaPZ0BJkjb8dNd-BeNd9cMzSyzyNtSeEzJhBnIQXtjzagQ06A_wCjd74RSg70JfBiw0XIaD73FeP" />
 </div>
 
-# Run and deploy your AI Studio app
+# Deploy
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/8c57a50c-6814-4aad-936b-849904d11928
+Netlify: https://agent-6a348df30e7ad89e10d808fc--dashboard-beon.netlify.app/
 
 ## Run Locally
 
